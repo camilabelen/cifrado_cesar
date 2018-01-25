@@ -1,0 +1,23 @@
+{
+  "name": "cifrado_cesar",
+  "version": "1.0.0",
+  "description": "__Programa:__ _Transforma una frase con cifrado césar_ __Entrada:__ _Frase del usuario_ __Salida:__ _Frase cifrada o decifrada_",
+  "main": "Cifrado_César.js",
+  "dependencies": {
+    "eslint": "^4.16.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camilabelen/cifrado_cesar.git"
+  },
+  "author": "Camila Cornejos <ccornejoss@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/camilabelen/cifrado_cesar/issues"
+  },
+  "homepage": "https://github.com/camilabelen/cifrado_cesar#readme"
+}
